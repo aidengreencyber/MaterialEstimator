@@ -1,0 +1,68 @@
+C:\Users\Stric\source\repos\MaterialEstimator\MaterialEstimator\bin\Debug\net8.0-windows\MaterialEstimator.exe
+C:\Users\Stric\source\repos\MaterialEstimator\MaterialEstimator\bin\Debug\net8.0-windows\MaterialEstimator.deps.json
+C:\Users\Stric\source\repos\MaterialEstimator\MaterialEstimator\bin\Debug\net8.0-windows\MaterialEstimator.runtimeconfig.json
+C:\Users\Stric\source\repos\MaterialEstimator\MaterialEstimator\bin\Debug\net8.0-windows\MaterialEstimator.dll
+C:\Users\Stric\source\repos\MaterialEstimator\MaterialEstimator\bin\Debug\net8.0-windows\MaterialEstimator.pdb
+C:\Users\Stric\source\repos\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.Form1.resources
+C:\Users\Stric\source\repos\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.csproj.GenerateResource.cache
+C:\Users\Stric\source\repos\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stric\source\repos\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.AssemblyInfoInputs.cache
+C:\Users\Stric\source\repos\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.AssemblyInfo.cs
+C:\Users\Stric\source\repos\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.csproj.CoreCompileInputs.cache
+C:\Users\Stric\source\repos\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.dll
+C:\Users\Stric\source\repos\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\refint\MaterialEstimator.dll
+C:\Users\Stric\source\repos\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.pdb
+C:\Users\Stric\source\repos\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.genruntimeconfig.cache
+C:\Users\Stric\source\repos\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\ref\MaterialEstimator.dll
+C:\Users\Stric\source\repos\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.Properties.Resources.resources
+C:\Users\Stric\Desktop\Group Project\MaterialEstimator\MaterialEstimator\bin\Debug\net8.0-windows\MaterialEstimator.exe
+C:\Users\Stric\Desktop\Group Project\MaterialEstimator\MaterialEstimator\bin\Debug\net8.0-windows\MaterialEstimator.deps.json
+C:\Users\Stric\Desktop\Group Project\MaterialEstimator\MaterialEstimator\bin\Debug\net8.0-windows\MaterialEstimator.runtimeconfig.json
+C:\Users\Stric\Desktop\Group Project\MaterialEstimator\MaterialEstimator\bin\Debug\net8.0-windows\MaterialEstimator.dll
+C:\Users\Stric\Desktop\Group Project\MaterialEstimator\MaterialEstimator\bin\Debug\net8.0-windows\MaterialEstimator.pdb
+C:\Users\Stric\Desktop\Group Project\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.Form1.resources
+C:\Users\Stric\Desktop\Group Project\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.Properties.Resources.resources
+C:\Users\Stric\Desktop\Group Project\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.csproj.GenerateResource.cache
+C:\Users\Stric\Desktop\Group Project\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stric\Desktop\Group Project\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.AssemblyInfoInputs.cache
+C:\Users\Stric\Desktop\Group Project\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.AssemblyInfo.cs
+C:\Users\Stric\Desktop\Group Project\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.csproj.CoreCompileInputs.cache
+C:\Users\Stric\Desktop\Group Project\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.dll
+C:\Users\Stric\Desktop\Group Project\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\refint\MaterialEstimator.dll
+C:\Users\Stric\Desktop\Group Project\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.pdb
+C:\Users\Stric\Desktop\Group Project\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.genruntimeconfig.cache
+C:\Users\Stric\Desktop\Group Project\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\ref\MaterialEstimator.dll
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\MaterialEstimator\bin\Debug\net8.0-windows\MaterialEstimator.exe
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\MaterialEstimator\bin\Debug\net8.0-windows\MaterialEstimator.deps.json
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\MaterialEstimator\bin\Debug\net8.0-windows\MaterialEstimator.runtimeconfig.json
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\MaterialEstimator\bin\Debug\net8.0-windows\MaterialEstimator.dll
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\MaterialEstimator\bin\Debug\net8.0-windows\MaterialEstimator.pdb
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.Form1.resources
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.Properties.Resources.resources
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.csproj.GenerateResource.cache
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.AssemblyInfoInputs.cache
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.AssemblyInfo.cs
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.csproj.CoreCompileInputs.cache
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.dll
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\refint\MaterialEstimator.dll
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.pdb
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.genruntimeconfig.cache
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\MaterialEstimator\obj\Debug\net8.0-windows\ref\MaterialEstimator.dll
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\bin\Debug\net8.0-windows\MaterialEstimator.exe
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\bin\Debug\net8.0-windows\MaterialEstimator.deps.json
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\bin\Debug\net8.0-windows\MaterialEstimator.runtimeconfig.json
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\bin\Debug\net8.0-windows\MaterialEstimator.dll
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\bin\Debug\net8.0-windows\MaterialEstimator.pdb
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.Form1.resources
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.Properties.Resources.resources
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.csproj.GenerateResource.cache
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.AssemblyInfoInputs.cache
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.AssemblyInfo.cs
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.csproj.CoreCompileInputs.cache
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.dll
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\obj\Debug\net8.0-windows\refint\MaterialEstimator.dll
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.pdb
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\obj\Debug\net8.0-windows\MaterialEstimator.genruntimeconfig.cache
+C:\Users\aiden\OneDrive\Desktop\MaterialEstimator\obj\Debug\net8.0-windows\ref\MaterialEstimator.dll
